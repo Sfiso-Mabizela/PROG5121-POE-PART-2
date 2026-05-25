@@ -199,10 +199,14 @@ if(loginUser.equals(user) && loginPass.equals(pass)){
    }
 }
    
-   
+  //GeeksforGeeks. 2024. Scanner Class in Java. Available at:
+  //https://www.geeksforgeeks.org/scanner-class-in-java/ 
+ //[Accessed 17 May 2026] 
    
   
-   
+ //Oracle. 2024. Java Platform, Standard Edition 17 Development Kit (JDK 17) Documentation. Available at: 
+//https://docs.oracle.com/en/java/javase/17/
+//[Accessed 19 May 2026]
    
    
    
